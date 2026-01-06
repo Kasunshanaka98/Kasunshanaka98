@@ -49,13 +49,6 @@
 
 ---
 
-## 🔥 Projects
-- 📌 **Project One** — Short description  
-- 📌 **Project Two** — Short description  
-- 📌 **Project Three** — Short description  
-
-(Add real projects here)
-
 ---
 
 ## 📬 Contact
