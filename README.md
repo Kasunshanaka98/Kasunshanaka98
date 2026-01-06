@@ -59,11 +59,7 @@
 ---
 
 ## 📬 Contact
-<p>
-  <a href="https://github.com/kasunshanaka">GitHub</a><br/>
-  <a href="https://linkedin.com/in/kasunshanaka">LinkedIn</a><br/>
-  <a href="mailto:kasunshanaka@example.com">kasunshanaka@example.com</a>
-</p>
+
 
 ---
 
